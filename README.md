@@ -1,10 +1,8 @@
 # dark-and-light
 
-
-From javascript20-projects, practice changing style dynamically only with css and js . with theme of Manila, Philippines
-
-
-light and dark ( Hello Manila, Philippines)
+https://user-images.githubusercontent.com/118321432/234770922-2d1f2281-7a4b-4aca-82d7-e934a43098d4.mp4
+* From javascript20-projects, practice changing style dynamically only with css and js . with theme of Manila, Philippines
+* light and dark ( Hello Manila, Philippines)
 
 ## Links
 
