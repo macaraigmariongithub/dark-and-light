@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/118321432/234770922-2d1f2281-7a4b-4aca
 ### Feature
 
 * A website that practice changes style dynamically with only JS and CSS .
-* There are light mode and dark mode. each mode corresponds to day and night of Seoul.
+* There are light mode and dark mode. each mode corresponds to day and night of Manila.
 * save theme mode state
 * responsive screen
 
